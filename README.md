@@ -1,5 +1,5 @@
 # base_converter
-A very little program to convert decimal numbers into another base (2-16)
+A very little console program to convert decimal numbers into another base (2-16)
 
 Usage:
 
